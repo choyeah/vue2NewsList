@@ -6,7 +6,7 @@
 
 <script>
 import ListItem from "../components/ListItem.vue";
-import listMixin from "../mixins/ListMixin";
+import listMixin from "../mixins/ListMixin";
 export default {
   mixins: [listMixin],
   components: {
